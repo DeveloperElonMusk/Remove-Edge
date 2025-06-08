@@ -26,6 +26,8 @@
 - Uninstalls Microsoft Edge from system-level packages
 - Does **not** modify system files outside of Edge directories
 - Does **not** affect other browsers or system functions
+- If the program you're searching for in the Search Box isn't installed and you press Enter, Windows might try to search for it using Microsoft Edge.
+- It's the best you will find!
 
 ---
 
